@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parag Shahade</h1>
-<h3 align="center">GCP Cloud Engineer | DevOps Enthusiast | Automation Advocate</h3>
+<h3 align="center">Cloud & DevOps Engineer | GCP | Terraform | Security & Automation </h3>
 
 ---
 
-🚀 Passionate about building scalable, secure, and automated cloud solutions using Google Cloud Platform.  
+🚀 Passionate about building scalable, secure, and automated cloud solutions using Google Cloud Platform and AWS.  
 💡 I enjoy solving infrastructure challenges with Terraform, Kubernetes, and CI/CD pipelines.  
 🎯 Constantly learning and improving through hands-on projects and open-source contributions.
 
@@ -19,17 +19,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-
----
-
-### 🔍 Featured Projects
-
-- 🔧 [**GCP Cost Tracker**](#): Track and analyze your Google Cloud usage and billing with automated alerts and reports.
-- ⚙️ [**Terraform GKE Deployment**](#): Infrastructure as Code to deploy and manage Kubernetes clusters on GCP.
-- 🚀 [**CI/CD Pipeline with GitHub Actions**](#): Automate Docker builds and deployments to GCP services.
-- 📦 [**Cloud Function Automation**](#): Trigger GCP Cloud Functions based on real-world use cases.
-
-> ✅ All projects include clear documentation, IaC, and practical cloud implementations.
 
 ---
 
