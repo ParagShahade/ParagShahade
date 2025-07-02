@@ -34,7 +34,6 @@
 ### 📫 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/paragshahade/)
-- 📬 paragshahade@gmail.com
 
 ---
 
