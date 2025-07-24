@@ -3,7 +3,7 @@
 
 ---
 
-🚀 Passionate about building scalable, secure, and automated cloud solutions using Google Cloud Platform and AWS.  
+🚀 Passionate about building scalable, secure, and automated cloud solutions using Google Cloud Platform AZURE,and AWS.  
 💡 I enjoy solving infrastructure challenges with Terraform, Kubernetes, and CI/CD pipelines.  
 🎯 Constantly learning and improving through hands-on projects and open-source contributions.
 
